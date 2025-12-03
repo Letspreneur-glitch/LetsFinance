@@ -1,0 +1,8 @@
+{
+  "name": "Lets Finance UMKM",
+  "description": "Aplikasi manajemen keuangan cerdas untuk UMKM dan Personal dengan analisis AI, scan struk, dan pembuat invoice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
